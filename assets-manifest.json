@@ -1,0 +1,46 @@
+{
+  "publicPath": "/fabritor/",
+  "entries": {
+    "main": [
+      "js/framework.js",
+      "js/87.js",
+      "css/main.css",
+      "js/main.js"
+    ]
+  },
+  "pages": {
+    "index": [
+      "js/f1b7312e.js",
+      "js/43ea133b.js",
+      "js/d59bccd2.js",
+      "js/456.js",
+      "css/p_index.css",
+      "js/p_index.js"
+    ]
+  },
+  "assets": {
+    "src/assets/fonts/方正楷体简体.ttf": "883f21c6",
+    "src/assets/fonts/LXGWFasmartGothic.ttf": "db2af0dc",
+    "src/assets/fonts/LXGWNeoXiHei.ttf": "4887e3d5",
+    "src/assets/fonts/SourceHanSansCN-Regular.otf": "be37d606",
+    "src/assets/fonts/包图小白体.ttf": "512301c4",
+    "src/assets/fonts/站酷快乐体.ttf": "d51c83a5",
+    "src/assets/fonts/胡晓波男神体.otf": "7b9d8e58",
+    "src/assets/fonts/站酷文艺体.ttf": "fc574632",
+    "src/assets/fonts/站酷小薇LOGO体.otf": "3bad0b2d",
+    "src/assets/fonts/SmileySans-Oblique.ttf": "6da0ce40",
+    "src/assets/fonts/Yozai-Regular.ttf": "e58757a7",
+    "src/assets/fonts/胡晓波骚包体.otf": "b3ee744c",
+    "src/assets/fonts/SourceHanSerifCN-Regular.ttf": "6357e3ce",
+    "src/assets/fonts/LXGWWenKai-Regular.ttf": "1ab105cd",
+    "src/assets/fonts/AlibabaPuHuiTi-3-55-Regular/AlibabaPuHuiTi-3-55-Regular.woff": "ec6e9527",
+    "src/assets/fonts/AlibabaPuHuiTi-3-55-Regular/AlibabaPuHuiTi-3-55-Regular.woff2": "af25a99f",
+    "src/assets/fonts/XiaolaiSC-Regular.ttf": "ffc16a31",
+    "src/assets/fonts/手写杂字体.ttf": "6b4e801c",
+    "src/assets/rough/circle.png": "c2faca88",
+    "src/assets/rough/diamond.png": "d2acbdbe",
+    "src/assets/rough/ellipse.png": "41feedb4",
+    "src/assets/rough/rect.png": "df3b593f",
+    "src/assets/rough/right-angle.png": "93573792"
+  }
+}
